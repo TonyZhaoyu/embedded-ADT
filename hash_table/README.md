@@ -1,0 +1,1 @@
+This implementation is not designed with respect to scalability. It's rather a presentation of the concept. The hash algorithm is based on "string to string dictionary using chaining" from http://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)HashTables.html?highlight=%28CategoryAlgorithmNotes%29.
